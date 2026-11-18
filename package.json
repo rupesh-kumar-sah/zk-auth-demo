@@ -4,7 +4,7 @@
   "private": true,
   "main": "src/index.ts",
   "scripts": {
-    "build": "node init && tsc",
+    "build": "tsc",
     "test": "jest"
   },
   "dependencies": {
